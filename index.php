@@ -1,0 +1,1 @@
+<?php include("buoi1.html");
