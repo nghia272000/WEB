@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e81a08aa-db5a-42e0-88dc-6ce8269c8651" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="e81a08aa-db5a-42e0-88dc-6ce8269c8651" name="Default Changelist" comment="Tra bt">
+      <change afterPath="$PROJECT_DIR$/Imgs/200529171932-02-vietnam-corona-2270-4539-1590816094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/200529180157-06-vietnam-coroan-2554-2037-1590816095.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/200529181106-08-vietnam-corona-6521-9572-1590816094.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Imgs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,6 +40,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Aptech\Baitap\Imgs" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +59,11 @@
       <workItem from="1602131925956" duration="71000" />
       <workItem from="1602132140909" duration="310000" />
       <workItem from="1602132655161" duration="49000" />
-      <workItem from="1602132724569" duration="319000" />
+      <workItem from="1602132724569" duration="1115000" />
+      <workItem from="1602150495561" duration="6000" />
+      <workItem from="1602269727018" duration="50000" />
+      <workItem from="1602269841777" duration="932000" />
+      <workItem from="1602271418570" duration="2343000" />
     </task>
     <task id="LOCAL-00001" summary="Tra bt">
       <created>1602132768246</created>
@@ -60,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602132768246</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tra bt">
+      <created>1602133079885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602133079885</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,22 +90,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Tra bt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="501" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602128962038">
+    <state x="501" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602133253921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="501" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602128962038" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602132767764">
+    <state x="501" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602133253921" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602133286062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602132767764" />
-    <state x="567" y="135" key="FileChooserDialogImpl" timestamp="1602131995726">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602133286062" />
+    <state x="567" y="135" key="FileChooserDialogImpl" timestamp="1602269772300">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="567" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602131995726" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602133076191">
+    <state x="567" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602269772300" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602133236197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602133076191" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602133236197" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602132981188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
