@@ -1,11 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e81a08aa-db5a-42e0-88dc-6ce8269c8651" name="Default Changelist" comment="Tra bt">
-      <change afterPath="$PROJECT_DIR$/Imgs/200529171932-02-vietnam-corona-2270-4539-1590816094.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/200529180157-06-vietnam-coroan-2554-2037-1590816095.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/200529181106-08-vietnam-corona-6521-9572-1590816094.png" afterDir="false" />
+    <list default="true" id="e81a08aa-db5a-42e0-88dc-6ce8269c8651" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/B3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/Bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/Css project.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/Kt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/Lab12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/Lab13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/Lab3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/lab4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/ss8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demobootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/0cb6c705304d21cbb68cdef13c5d929f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/ZA 1903.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/bb8319aff2aee8ea6b6631ff0ab02ac0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/hinh-nen-background-hoa-dep-don-gian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/laptop-wallpapers-and-laptop-backgrounds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lap7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layoutdemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lb3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/bootstrap-3.4.1-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lip/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lap13api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/DEMO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/html/project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imgs/200529171932-02-vietnam-corona-2270-4539-1590816094.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imgs/200529180157-06-vietnam-coroan-2554-2037-1590816095.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imgs/200529181106-08-vietnam-corona-6521-9572-1590816094.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +74,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -23,6 +84,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iZulIXvgTT2BxbRVfIYiTDf86C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,19 +96,42 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Aptech\File Baitap\Baitap\Imgs" />
+      <recent name="D:\Aptech\Baitap\Lip" />
       <recent name="D:\Aptech\Baitap\Imgs" />
+      <recent name="D:\Aptech\Baitap" />
     </key>
+  </component>
+  <component name="RunManager" selected="npm.run">
+    <configuration name="npm" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.npm" />
+      <item itemvalue="npm.run" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,7 +150,29 @@
       <workItem from="1602150495561" duration="6000" />
       <workItem from="1602269727018" duration="50000" />
       <workItem from="1602269841777" duration="932000" />
-      <workItem from="1602271418570" duration="2343000" />
+      <workItem from="1602271418570" duration="3694000" />
+      <workItem from="1602318151709" duration="44000" />
+      <workItem from="1602553202799" duration="12739000" />
+      <workItem from="1602725386879" duration="8459000" />
+      <workItem from="1602898006001" duration="6249000" />
+      <workItem from="1603158505295" duration="9930000" />
+      <workItem from="1603297916096" duration="1234000" />
+      <workItem from="1603330288266" duration="634000" />
+      <workItem from="1603390769473" duration="603000" />
+      <workItem from="1603479079068" duration="155000" />
+      <workItem from="1603486533098" duration="1189000" />
+      <workItem from="1603501524476" duration="6833000" />
+      <workItem from="1603738597834" duration="1785000" />
+      <workItem from="1603762390317" duration="11032000" />
+      <workItem from="1603817768512" duration="90000" />
+      <workItem from="1603937376313" duration="5375000" />
+      <workItem from="1604369255296" duration="5210000" />
+      <workItem from="1604541935271" duration="7034000" />
+      <workItem from="1604975218691" duration="1761000" />
+      <workItem from="1604978357249" duration="2000" />
+      <workItem from="1606183532208" duration="619000" />
+      <workItem from="1606344406331" duration="1214000" />
+      <workItem from="1606360583994" duration="6599000" />
     </task>
     <task id="LOCAL-00001" summary="Tra bt">
       <created>1602132768246</created>
@@ -79,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602133079885</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Baitap">
+      <created>1602273841030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602273841030</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Baitap">
+      <created>1602273936605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602273936605</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,32 +210,69 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tra bt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tra bt" />
+    <MESSAGE value="Baitap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Baitap" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="501" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602133253921">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606360597922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="501" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602133253921" />
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606360597922" />
+    <state x="501" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603945334668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603945334668" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603330314110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603330314110" />
+    <state x="516" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606363105855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1606363105855" />
     <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602133286062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602133286062" />
-    <state x="567" y="135" key="FileChooserDialogImpl" timestamp="1602269772300">
+    <state x="567" y="135" key="FileChooserDialogImpl" timestamp="1606345826115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="567" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602269772300" />
+    <state x="567" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606345826115" />
+    <state x="634" y="114" key="RollbackChangesDialog" timestamp="1606362808773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="634" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606362808773" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602554032802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602554032802" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602133236197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602133236197" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606364607243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1606364607243" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602132981188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602132981188" />
+    <state x="485" y="251" key="jetbrains.nodejs.interpreters-dialog" timestamp="1604976750580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="251" key="jetbrains.nodejs.interpreters-dialog/0.0.1536.824@0.0.1536.824" timestamp="1604976750580" />
+    <state x="541" y="286" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1606363122394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="286" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1606363122394" />
     <state x="443" y="180" key="run.anything.popup" timestamp="1602129446245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="443" y="180" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602129446245" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604551486824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604551486824" />
   </component>
 </project>

@@ -1,0 +1,21 @@
+\<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt</title>
+</head>
+<body>
+<h1 id="head1">Hello</h1>
+<script type="text/javascript"
+        function changeText() {
+//chuyen chu cai Hello->good morning
+var he1=document.getElementById("head1");//Tao doi tuong
+he1.innerText="good morning";
+he1.style.color="red";
+he1.style.fontSize="40px";
+
+}
+set timeout(changeText,3000);
+</script>
+</body>
+</html>

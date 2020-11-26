@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    /* 100-thin 300-light 400-normal 500-medium 600-semi-bold 700-bold 800-extra-bold 900-black */
+    font-family: 'Roboto', sans-serif;
+    color: #232323;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.item{
+    float: left;
+    width: 100%;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px #aaaaaa;
+    border-radius: 6px;
+    margin-bottom: 30px;
+}

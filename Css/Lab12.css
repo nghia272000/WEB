@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    font-size: 20px;
+    line-height: 2.5;
+    font-weight: 400;
+    font-family: 'Trispace', sans-serif;
+    color: #232323;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.logo{
+    background-color: #d9534f;
+    color: white;
+    padding: 15px;
+}
+.item {
+    float: left;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px #aaaaaa;
+
+}
+img {
+    max-width: 100%;
+    height: auto;
+
+}

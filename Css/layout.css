@@ -1,0 +1,89 @@
+a{
+    text-decoration: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    /* 100-thin 300-light 400-normal 500-medium 600-semi-bold 700-bold 800-extra-bold 900-black */
+    font-family: 'Roboto', sans-serif;
+    color: #232323;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    float: none;
+}
+.content{
+    float: left;
+    width: 66.67%;
+    padding-right: 15px;
+}
+.sidebar{
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+}
+/* xong layout */
+.header{
+    background-color: #ffffff;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 30px 0;
+}
+.logo{
+    float: left;
+    width: 30%;
+}
+.top-links{
+    float: right;
+    width: 30%;
+}
+.top-links li{
+    float: right;
+    list-style: none;
+    margin-left: 15px;
+}
+.nav{
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+}
+.menu .last-item{
+    float: right;
+    margin-right: 0;
+}
+.main{
+    padding-top: 30px;
+}
+.body-content{
+    background-color: #ffffff;
+    padding: 40px;
+    float: left;
+    width: 100%;
+}
+.block{
+    background-color: #ffffff;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.black-block{
+    background-color: #333333;
+}

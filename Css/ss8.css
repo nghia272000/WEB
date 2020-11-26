@@ -1,0 +1,9 @@
+.section{
+    float:  left;
+    width: 100%;
+}
+toplinks li{
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+}
